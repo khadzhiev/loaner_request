@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Users who administer the Loaner Request application.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_455484_loaner_re.admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 07:44:21</sys_created_on>
+        <sys_id>8464b0b5db98101000fd7b3868961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_455484_loaner_re.admin</sys_name>
+        <sys_package display_value="Loaner Request" source="x_455484_loaner_re">6dbfbca7db8c101000fd7b386896192b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6dbfbca7db8c101000fd7b386896192b</sys_scope>
+        <sys_update_name>sys_user_role_8464b0b5db98101000fd7b3868961960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 07:44:21</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Loaner Request</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 13:18:47</sys_created_on>
+        <sys_id>c1f00679db5c101000fd7b386896199c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_455484_loaner_re">6dbfbca7db8c101000fd7b386896192b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6dbfbca7db8c101000fd7b386896192b</sys_scope>
+        <sys_update_name>sys_properties_category_c1f00679db5c101000fd7b386896199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 13:21:07</sys_updated_on>
+        <title><![CDATA[<p><img style="align: baseline;" title="" src="ipinfo-logo.pngx" alt="" width="204" height="204" align="baseline" border="" hspace="" vspace="" /></p>
+<p style="text-align: center;"><strong>Loaner Request Properties</strong></p>
+<p>User with admin role can change the properties.</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1f00679db5c101000fd7b386896199c"/>
+</record_update>

@@ -6,36 +6,36 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>Create a new loaner request.</hint>
+        <hint/>
         <homepage/>
         <image/>
         <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title>Properties</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_455484_loaner_re_loaner_request</name>
-        <order>100</order>
+        <name/>
+        <order>700</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=5cbe7bcedbd8501000fd7b38689619aa</query>
+        <query>system_properties_ui.do?sysparm_title=Loaner Request Properties&amp;sysparm_category=Loaner Request</query>
         <report/>
-        <roles>x_455484_loaner_re.loaner_request_user,x_455484_loaner_re.admin</roles>
+        <roles>x_455484_loaner_re.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-04-14 10:14:51</sys_created_on>
+        <sys_created_on>2020-04-21 13:30:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>dc6355e7dbcc101000fd7b38689619d2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_id>9d53c2f9db5c101000fd7b386896197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_455484_loaner_re">6dbfbca7db8c101000fd7b386896192b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">6dbfbca7db8c101000fd7b386896192b</sys_scope>
-        <sys_update_name>sys_app_module_dc6355e7dbcc101000fd7b38689619d2</sys_update_name>
+        <sys_update_name>sys_app_module_9d53c2f9db5c101000fd7b386896197a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-22 18:07:29</sys_updated_on>
+        <sys_updated_on>2020-04-21 13:30:37</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Properties</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

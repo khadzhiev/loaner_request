@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Loaner Request">f00fc127dbcc101000fd7b38689619ca</application>
+        <application display_value="Loaner Task">ce97ed39db1c101000fd7b38689619b5</application>
         <assessment/>
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>Create a new loaner request.</hint>
+        <hint/>
         <homepage/>
         <image/>
-        <link_type>DIRECT</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title>Loaner Tasks</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_455484_loaner_re_loaner_request</name>
-        <order>100</order>
+        <name>x_455484_loaner_re_loaner_task</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
-        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=5cbe7bcedbd8501000fd7b38689619aa</query>
+        <query/>
         <report/>
-        <roles>x_455484_loaner_re.loaner_request_user,x_455484_loaner_re.admin</roles>
+        <roles>x_455484_loaner_re.loaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-04-14 10:14:51</sys_created_on>
+        <sys_created_on>2020-04-21 11:27:17</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>dc6355e7dbcc101000fd7b38689619d2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_id>8697ed39db1c101000fd7b38689619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_455484_loaner_re">6dbfbca7db8c101000fd7b386896192b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">6dbfbca7db8c101000fd7b386896192b</sys_scope>
-        <sys_update_name>sys_app_module_dc6355e7dbcc101000fd7b38689619d2</sys_update_name>
+        <sys_update_name>sys_app_module_8697ed39db1c101000fd7b38689619b8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-22 18:07:29</sys_updated_on>
+        <sys_updated_on>2020-04-21 11:27:17</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Loaner Tasks</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
